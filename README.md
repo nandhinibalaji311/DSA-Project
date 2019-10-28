@@ -1,7 +1,8 @@
 # DSA-Project
 ### *Name*:Nandhini Balaji
 ### *Teammate*:B. Jeethendra
-### *Roll no*:AM.EN.U4CSE18338
+### *Roll no(Nandhini)*:AM.EN.U4CSE18338
+### *Roll no(Jeethendra)*:AM.EN.U4CSE18508
 ### *Institution*: Amrita School of Engineering
 
 ### *Problem*:Is graph Bipartite?
